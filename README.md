@@ -1,3 +1,5 @@
+<img src="https://github.com/andreivladpaul/andreivladpaul/blob/main/github-profile.png" height=600 width="1000">
+
 <h1 align="center">Hi 👋, I'm Vlad Andrei</h1>
 <h3 align="center">A passionate jr. full stack developer</h3>
 
