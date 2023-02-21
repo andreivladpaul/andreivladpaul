@@ -11,8 +11,4 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/andreivladpaul/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andreivladpaul/" height="30" width="40" /></a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1261/1*tGHAV9yItR_FISNYM7HGqQ.gif">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreivladpaul&show_icons=true&locale=en&layout=compact" alt="andreivladpaul" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andreivladpaul&" alt="andreivladpaul" /></p>
