@@ -1,6 +1,5 @@
 <img src="https://github.com/andreivladpaul/andreivladpaul/blob/main/github-profile.png" height=600 width="1000">
 
-<h3 align="center">A passionate jr. full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andreivladpaul&label=Profile%20views&color=0e75b6&style=flat" alt="andreivladpaul" /> </p>
 
